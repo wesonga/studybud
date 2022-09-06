@@ -1,1 +1,1 @@
-# studybud
+This is a discord-like application built with Django.
